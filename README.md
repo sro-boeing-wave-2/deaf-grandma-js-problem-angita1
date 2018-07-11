@@ -36,7 +36,6 @@ Whatever you say to grandma (whatever you type in), she should respond with  **H
 > BYE
 > <b>NO, NOT SINCE 1948</b>
 > BYE
-> <b>NO, NOT SINCE 1936</b>
 </pre>
 
 ## Assignment
