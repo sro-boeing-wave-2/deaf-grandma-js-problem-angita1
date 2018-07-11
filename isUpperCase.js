@@ -13,6 +13,4 @@ const isUppercase = (say) => {
   }
   return false;
 };
-
 module.exports = isUppercase;
-
